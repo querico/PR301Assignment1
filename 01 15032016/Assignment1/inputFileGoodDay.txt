@@ -1,0 +1,10 @@
+A001 M 22 183 Normal 186
+B002 F 32 299 Normal 390
+C003 M 33 390 Overweight 290
+D004 F 29 484 Overweight 188
+E005 M 39 507 Normal 099
+F006 F 47 622 Overweight 360
+G007 M 50 705 Obesity 850
+H008 F 42 818 Obesity 720
+I009 M 23 978 Underweight 350
+J010 F 25 790 Underweight 299
